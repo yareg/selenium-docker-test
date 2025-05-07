@@ -1,0 +1,19 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/jasmine": "^5.1.8",
+    "@types/node": "^22.15.15",
+    "@types/selenium-webdriver": "^4.1.28",
+    "jasmine": "^5.7.1",
+    "selenium-webdriver": "^4.32.0",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "target": "ES2022",
+      "esModuleInterop": true,
+      "allowUnreachableCode": false,
+      "allowJs": false,
+      "module": "CommonJS",
+      "moduleResolution": "node",
+      "declaration": false,
+      "noImplicitAny": false,
+      "types": [ "node", "jasmine" ],
+      "sourceMap": true,
+      "outDir": ".dist",
+      "rootDir": ".",
+      "baseUrl": ".",
+      "useDefineForClassFields": false,
+      "removeComments": true
+    },
+    "include": [
+      "./**/*.ts"
+    ]
+  }
+  
